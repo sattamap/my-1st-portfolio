@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+
+}
+
+.header {
+    height: 808px;
+    background-image: url('../images/banner/banner1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    display: flex;
+    /* align-items: center; */
+
+
+}
+
+.banner {
+    padding: 216px 230px 180px 845px;
+    text-align: right;
+
+}
+
+.banner-title {
+    padding-bottom: 12px;
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.banner-para {
+    padding-bottom: 12px;
+    padding-left: 40px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.banner-btn {
+    /* padding: 599px 255px 186px 1236px; */
+}
+
+.sec1 {
+    height: 910px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 80px; */
+}
+
+.sec1-img {
+    padding-top: 130px;
+    padding-left: 270px;
+}
+
+.img1 {
+    width: 451px;
+    height: 898px;
+}
+.sec1-des{
+
+    padding-top: 370px;
+    padding-left: 260px;
+}
+li {
+    list-style-type: none;
+}
+.sec2{
+    
+    margin: auto;
+   
+}
+.sec2-heading{
+    padding-top: 150px;
+    text-align: center;
+}
+.plans{
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    text-align: center;
+}
+.sec3{
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    background-image: url("../images/watch.png");
+    background-repeat: no-repeat;
+    
+
+    
+}
